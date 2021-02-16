@@ -1,7 +1,7 @@
 ### Hi, there! It's Amlan! 👋
 
 <a href="https://www.linkedin.com/in/amlan-mohanty-2869491a4/">
-  <img align="left" alt="amlanmohantty1's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="amlanmohantty1's LinkdeIn" width="22px" src="LinkedIn" />
 </a>
 <a href="mailto:amlan.adishakti@gmail.com">
   <img align="left" alt="kahanikaar's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
