@@ -28,4 +28,4 @@ I am Amlan Mohanty. I am a B.Tech undergraduate student from IIIT Bhubaneswar wi
 - 💼
 - 📝: 
 
-
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amlanmohanty1&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amlanmohanty1&layout=compact&langs_count=8&count_private=true&theme=radical"/>
