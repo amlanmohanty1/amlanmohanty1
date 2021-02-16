@@ -1,8 +1,5 @@
 ### Hi, there! It's Amlan! 👋
 
-<a href="https://www.linkedin.com/in/amlan-mohanty-2869491a4/">
-  <img align="left" alt="amlanmohantty1's LinkdeIn" width="22px" src="LinkedIn" />
-</a>
 <a href="mailto:amlan.adishakti@gmail.com">
   <img align="left" alt="kahanikaar's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
@@ -22,7 +19,7 @@ I am Amlan Mohanty. I am a B.Tech undergraduate student from IIIT Bhubaneswar wi
 - 👯 I’m looking to work as an intern and contribute to any organization with my ML skills.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: Gmail: amlan.adishakti@gmail.com , LinkedIn: https://www.linkedin.com/in/amlan-mohanty-2869491a4/
+- 📫 How to reach me: Gmail: amlan.adishakti@gmail.com , [LinkedIn] (https://www.linkedin.com/in/amlan-mohanty-2869491a4/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 💼
