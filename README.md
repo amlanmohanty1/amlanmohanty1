@@ -9,7 +9,7 @@ I am ✨ **Amlan Mohanty**✨ , currently pursuing my Bachelor's in Computer Sci
 - 🌱 I’m currently learning and sharpening my skills in Machine Learning and Data Science.
 - 🔭 I’m looking to work as an intern and contribute to any organization with my ML skills.
 - 🥅 Goals: Contribute more to Open Source projects.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/amlan-mohanty-2869491a4/" /> 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/amlan-mohanty-2869491a4/">LinkedIn</a> 
 
 
 <!--                                                                                                
