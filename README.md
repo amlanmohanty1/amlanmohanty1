@@ -14,7 +14,7 @@ I am ✨ **Amlan Mohanty**✨ , currently pursuing my Bachelor's in Computer Sci
 <br><br>
 <br>
 <hr>
-
+<img src="https://spectrapackautomation.com/img/contactme.gif" />
 
 -  Linkedin : https://www.linkedin.com/in/amlan-mohanty-2869491a4/
 -  Email  : amlan.adishakti@gmail.com
