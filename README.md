@@ -1,5 +1,7 @@
 ### Hi, there! It's Amlan! 👋    <div align = 'right'>![](https://komarev.com/ghpvc/?username=amlanmohanty1&color=yellow)</div>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 I am ✨ **Amlan Mohanty**✨ , currently pursuing my Bachelor's in Computer Science from **IIIT, Bhubaneswar**. With a keen interest in topics like **AI, Machine Learning and Data Science**, I am eager to increase my depth of knowledge in these areas of study and contribute to the society. I have wokred as a Data Science and Business Analytics Intern at The Sparks Foundation and as a Machine Learning intern at SmartKnower Pvt Ltd., where I worked on developing two real world Machine Learning projects. Apart from this, I have two research publications accepted by Springer-Nature and Wiley Publication respectively and I am currently working on another research paper on Deep Learning, Computer Vision and IoT.
   
 
@@ -8,7 +10,7 @@ I am ✨ **Amlan Mohanty**✨ , currently pursuing my Bachelor's in Computer Sci
 - 🔭 I’m looking to work as an intern and contribute to any organization with my ML skills.
 - 🥅 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/amlan-mohanty-2869491a4/" /> 
-<p align= "center"><img src="https://media2.giphy.com/media/QmGShkWAWid2hzCqHE/giphy.gif" width= "35" height= "70"></p>
+
 
 <!--                                                                                                
 <p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=amlanmohanty1&show_icons=true"></p>
