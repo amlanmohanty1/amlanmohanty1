@@ -15,8 +15,9 @@ I am ✨ **Amlan Mohanty**✨ , currently pursuing my Bachelor's in Computer Sci
 <br>
 <hr>
 
--  Email  : amlan.adishakti@gmail.com
+
 -  Linkedin : https://www.linkedin.com/in/amlan-mohanty-2869491a4/
+-  Email  : amlan.adishakti@gmail.com
 -  Kaggle : https://www.kaggle.com/amlanmohanty1
 -  Medium : https://amlanmohanty1.medium.com/
 
