@@ -1,4 +1,4 @@
-### Hi, there! It's Amlan! 👋
+### Hi, there! It's Amlan! 👋    <div align = 'right'>![](https://komarev.com/ghpvc/?username=amlanmohanty1&color=yellow)</div>
 
 I am ✨ **Amlan Mohanty**✨ , currently pursuing my Bachelor's in Computer Science from **IIIT, Bhubaneswar**. With a keen interest in topics like **AI, Machine Learning and Data Science**, I am eager to increase my depth of knowledge in these areas of study and contribute to the society. I have wokred as a Data Science and Business Analytics Intern at The Sparks Foundation and as a Machine Learning intern at SmartKnower Pvt Ltd., where I worked on developing two real world Machine Learning projects. Apart from this, I have two research publications accepted by Springer-Nature and Wiley Publication respectively and I am currently working on another research paper on Deep Learning, Computer Vision and IoT.
   
