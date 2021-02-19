@@ -12,13 +12,13 @@ I am ✨ **Amlan Mohanty**✨ , currently pursuing my Bachelor's in Computer Sci
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/amlan-mohanty-2869491a4/">LinkedIn</a> 
 
                                                                                                
-<p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=amlanmohanty1&show_icons=true"></p>
+<!--<p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=amlanmohanty1&show_icons=true"></p>-->
 <!--
 <br><br>
 <br>
 -->
 <hr>
-<img src="https://spectrapackautomation.com/img/contactme.gif" />
+<!--<img src="https://spectrapackautomation.com/img/contactme.gif" /> -->
 
 -  Linkedin : https://www.linkedin.com/in/amlan-mohanty-2869491a4/
 -  Email  : amlan.adishakti@gmail.com
