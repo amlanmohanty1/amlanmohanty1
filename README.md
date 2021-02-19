@@ -11,10 +11,9 @@ I am ✨ **Amlan Mohanty**✨ , currently pursuing my Bachelor's in Computer Sci
 - 🥅 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/amlan-mohanty-2869491a4/">LinkedIn</a> 
 
-
-<!--                                                                                                
+                                                                                                
 <p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=amlanmohanty1&show_icons=true"></p>
--->
+
 
 - 📝: 
 <br><br>
