@@ -8,7 +8,8 @@ I am ✨ **Amlan Mohanty**✨ , currently pursuing my Bachelor's in Computer Sci
 - 🔭 I’m looking to work as an intern and contribute to any organization with my ML skills.
 - 🥅 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/amlan-mohanty-2869491a4/" />                                                                                                  
-
+<p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=shobhitsrivastava-ds&show_icons=true"></p>
+<hr>
 
 - 📝: 
 <br><br>
@@ -21,11 +22,6 @@ I am ✨ **Amlan Mohanty**✨ , currently pursuing my Bachelor's in Computer Sci
 -  Kaggle : https://www.kaggle.com/amlanmohanty1
 -  Medium : https://amlanmohanty1.medium.com/
 
-
-
-<p align="center">
-  <img src="https://spectrapackautomation.com/img/contactme.gif" />
-</p>
 
 
 
