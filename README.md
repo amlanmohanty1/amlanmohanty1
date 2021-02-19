@@ -6,10 +6,12 @@ I am ✨ **Amlan Mohanty**✨ , currently pursuing my Bachelor's in Computer Sci
 - 💼 I’m currently pursuing B.Tech in Information Technology from IIIT, Bhubaneswar.
 - 🌱 I’m currently learning and sharpening my skills in Machine Learning and Data Science.
 - 🔭 I’m looking to work as an intern and contribute to any organization with my ML skills.
-- 📫 Write to me at: amlan.adishakti@gmail.com                                                                                                    
+- 🥅 Goals: Contribute more to Open Source projects.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/amlan-mohanty-2869491a4/" />                                                                                                  
 - ☎️ [LinkedIn](https://www.linkedin.com/in/amlan-mohanty-2869491a4/)
 
 - 📝: You can find my resume at:
-
+<br><br>
+<br>
 
 ❤ [By Amlan Mohanty](https://github.com/amlanmohanty1/)
