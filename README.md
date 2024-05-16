@@ -15,7 +15,7 @@ I am ✨ **Amlan Mohanty**✨ , currently pursuing final year of my Bachelor's i
 <br>
 -->
 <hr>
-[![](https://visitcount.itsvg.in/api?id=nwaliaez&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!--<img src="https://spectrapackautomation.com/img/contactme.gif" /> -->
 
 -  Linkedin : https://www.linkedin.com/in/amlan-mohanty-2869491a4/
