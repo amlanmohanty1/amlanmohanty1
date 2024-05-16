@@ -23,7 +23,7 @@ I am ✨ **Amlan Mohanty**✨ , currently pursuing final year of my Bachelor's i
 -  Kaggle : https://www.kaggle.com/amlanmohanty1
 -  Medium : https://amlanmohanty1.medium.com/
 
-
+[![](https://visitcount.itsvg.in/api?id=amlanmohanty1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
