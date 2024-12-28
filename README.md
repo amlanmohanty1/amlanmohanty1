@@ -35,8 +35,9 @@ I am ✨ **Amlan Mohanty**✨ , currently pursuing  my masters in Business Analy
 <!--<img src="https://spectrapackautomation.com/img/contactme.gif" /> -->
 ## 📫 How to Reach Me
 
-[![Email](https://img.shields.io/badge/Email-amlan@umd.edu-red?style=flat&logo=gmail&logoColor=white)](mailto:amlan@umd.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-amlanmohanty1-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amlanmohanty1/) 
+[![Email](https://img.shields.io/badge/Email-mohanty.amlan1400@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:mohanty.amlan1400@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amlanmohanty1-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amlanmohanty1/)
+[![YouTube](https://img.shields.io/badge/YouTube-datadrool-red?style=flat&logo=youtube)](https://www.youtube.com/@datadrool)
 [![Kaggle](https://img.shields.io/badge/Kaggle-amlanmohanty-skyblue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/amlanmohanty1) 
 [![Tableau](https://img.shields.io/badge/Tableau-amlanmohanty-orange?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/amlan.mohanty8190/vizzes)
 
