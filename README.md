@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I am ✨ **Amlan Mohanty**✨ , currently pursuing  my masters in Business Analytics from **University of Maryland, College Park**, where I am deepening my knowledge and skills in data mining, predictive analytics, and big data. With hands-on experience from companies like Innovaccer Inc. and Iha Consulting Services, I have honed my abilities in optimizing data pipelines, conducting data correlations analysis, and creating impactful data visualizations. My passion lies in using data-driven insights to solve complex problems and drive business strategies. I'm proficient in Python, SQL, R, and various data visualization tools, and I'm always eager to learn and explore the latest trends in data science and machine learning. Let's connect and explore the fascinating world of data together!
+I am ✨ **Amlan Mohanty**✨ , recently graduated with my masters in Business Analytics from **University of Maryland, College Park**, where I deepened my knowledge and skills in data mining, predictive analytics, and big data. With hands-on experience from companies like Innovaccer Inc. and Iha Consulting Services, I have honed my abilities in optimizing data pipelines, conducting data correlations analysis, and creating impactful data visualizations. My passion lies in using data-driven insights to solve complex problems and drive business strategies. I'm proficient in Python, SQL, R, and various data visualization tools, and I'm always eager to learn and explore the latest trends in data science and machine learning. Let's connect and explore the fascinating world of data together!
 
 ## 🔭 My Interests
 
@@ -35,7 +35,7 @@ I am ✨ **Amlan Mohanty**✨ , currently pursuing  my masters in Business Analy
 <!--<img src="https://spectrapackautomation.com/img/contactme.gif" /> -->
 ## 📫 How to Reach Me
 
-[![Email](https://img.shields.io/badge/Email-mohanty.amlan1400@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:mohanty.amlan1400@gmail.com)
+<!--[![Email](https://img.shields.io/badge/Email-mohanty.amlan1400@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:mohanty.amlan1400@gmail.com) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amlanmohanty1-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amlanmohanty1/)
 [![YouTube](https://img.shields.io/badge/YouTube-datadrool-red?style=flat&logo=youtube)](https://www.youtube.com/@datadrool)
 [![Kaggle](https://img.shields.io/badge/Kaggle-amlanmohanty-skyblue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/amlanmohanty1) 
